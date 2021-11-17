@@ -2,7 +2,7 @@
 This is my public CV
 
 This is a [link]
-cant do that
+can do that
 
 
 
@@ -11,4 +11,7 @@ I am a professional with solid analytical skills enriched with proven experience
 I'm a Fast learner, fluent in UX Design, Social Media Marketing, and Development. 
 In my corporate career, I had worked in Insurance, Telco, and Education sectors, and as an entrepreneur, founded a startup (Arte Manifiesto) and an Agency (Funka.pe)
 And finally, I'm a professional that thrives on horizontal organizations with a clear human purpose. 
+
+Skills:
+Technical fluency.
 
